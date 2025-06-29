@@ -1,6 +1,6 @@
 # 🌦️ Real-Time Weather Dashboard | Power BI Project
 
-This project showcases a **Real-Time Weather Dashboard** built using **Power BI**, which dynamically fetches and visualizes weather data through an external **Weather API**. The dashboard is designed to be clean, interactive, and informative, allowing users to explore current weather metrics and forecasts across multiple cities.
+This project showcases a **Real-Time Weather Dashboard** built using **Power BI**, which dynamically fetches and visualizes weather data through an external **Weather API**. The dashboard is designed to be clean, interactive, and informative, allowing users to explore current weather metrics and forecasts across multiple major cities in India.
 
 ## 🚀 Features
 
