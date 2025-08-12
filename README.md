@@ -36,9 +36,10 @@ This project showcases a **Real-Time Weather Dashboard** built using **Power BI*
 
 ## 📷 Dashboard Preview -
 
-Live Dashboard - [View](https://app.powerbi.com/view?r=eyJrIjoiNGMwOGUwNzktZjdmNy00NjY4LWE4OTgtMjI1MTZhZGFmNjQzIiwidCI6IjA1MzYzOThhLTNjZGQtNDJjNi1iOGJhLWNjMGUwMGQ3OTI3YyJ9)
+Live Dashboard - [View](https://app.powerbi.com/view?r=eyJrIjoiYzE2MDFjNDUtMGEwNS00NjQ0LWE4MTItYTQyY2RiN2RkMGRiIiwidCI6IjA1MzYzOThhLTNjZGQtNDJjNi1iOGJhLWNjMGUwMGQ3OTI3YyJ9)
 
 ## 📬 Let's Connect!
 
 If you found this project interesting or have any suggestions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sssb98/) or reach out via [Email](mailto:sanketbhosale1998@gmail.com?subject=Hello&body=I%20wanted%20to%20connect%20with%20you.). I’d love to hear your feedback or discuss ideas!
+
 
